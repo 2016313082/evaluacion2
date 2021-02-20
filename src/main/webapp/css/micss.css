@@ -1,0 +1,14 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19-feb-2021, 17:51:39
+    Author     : gustavo
+*/
+
+#exampleInputEmail-error,#exampleInputPassword-error{
+    font-size: 10px;
+    color: #6610f2;
+}
